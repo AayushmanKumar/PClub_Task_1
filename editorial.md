@@ -1,7 +1,7 @@
 A possible 2D Dynamic Programming Solution is as follows:
 <p>
 using dp, we can itarate over all the sub arrays possible. <br>
-We store the best difference in our dp array, where dp[left][right] stores the best difference possible for sub array a_(left),a_(left+1),....,a_(right-1),a_(right). <br>
+We store the best difference in our dp array, where dp[left][right] stores the best difference possible for sub array $a_{left},a_{left+1},....,a_{right-1},a_{right}$. <br>
 Now we give each player the subarray from left -> k once and k -> right once and calculate the best differnce among all possible values of k from left -> right using: <br>
  
 ```
