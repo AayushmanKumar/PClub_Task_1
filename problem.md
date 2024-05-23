@@ -22,9 +22,9 @@ After the end of a game they ask you to keep track of the **difference of scores
 Help them by printing out the difference of scores for each test case if both the players play **optimally**.
 
 ## Input
-The first line of the input contains t (1 ≤ t ≤ 100) -- the number of test cases.
+The first line of the input contains $t (1 ≤ t ≤ 100)$ -- the number of test cases.
 
-The second line of each test case contains an integer n (1 ≤ n ≤ 100) — the number of elements in the array *A*.
+The second line of each test case contains an integer $n (1 ≤ n ≤ 100)$ — the number of elements in the array *A*.
 
 The third line of each test case contains n integers of the array *A*.
 
@@ -33,18 +33,18 @@ For each test case, output one integer — the maximum difference of score Aadit
 
 ## Example
 ### Input
-$'
-2
-4
-4 -8 -16 10
-4
+$
+2 <br>
+4 <br>
+4 -8 -16 10 <br>
+4 <br>
 1 2 3 4
-'$
+$
 ### Output
-$'
-2
+$
+2 <br>
 10
-'$
+$
 
 
 
