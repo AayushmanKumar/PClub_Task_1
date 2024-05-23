@@ -25,9 +25,9 @@ After the end of a game they ask you to keep track of the **difference of scores
 Help them by printing out the difference of scores for each test case if both the players play **optimally**.
 
 ## Input
-The first line of the input contains$ t (1 ≤ t ≤ 100)$ -- the number of test cases.
+The first line of the input contains $t (1 ≤ t ≤ 100)$ -- the number of test cases.
 
-The first line of each test case contains an integer$ n  (1 ≤ n ≤ 100)$ — the number of elements in the array $A$.
+The first line of each test case contains an integer $n  (1 ≤ n ≤ 100)$ — the number of elements in the array $A$.
 
 The second line of each test case contains $n$ integers of the array $A$.
 
