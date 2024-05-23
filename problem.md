@@ -1,9 +1,9 @@
 <p align="center">
-# Aadit diffs Aalekh
-time limit per test: 2 seconds
-memory limit per test: 256 megabytes
-input: standard input
-output: standard output
+# Aadit diffs Aalekh <br>
+time limit per test: 2 seconds <br>
+memory limit per test: 256 megabytes <br>
+input: standard input <br>
+output: standard output <br>
 </p>
 
 
