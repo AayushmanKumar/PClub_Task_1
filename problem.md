@@ -16,5 +16,5 @@ Both of them play optimally and after the end of a game they ask you to keep tra
 It is clear that Aadit wants to maximise the difference while Aalekh wants to minimise it.
 
 ## Input
-The first line of the input contains$ t ( 1 <= t <= 100 ) -- the number of test cases.
+The first line of the input contains $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ -- the number of test cases.
 
