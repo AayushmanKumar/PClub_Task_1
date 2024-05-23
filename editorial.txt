@@ -1,3 +1,0 @@
-A possible 2D Dynamic Programming Solution is as follows:
-
-We have to analyse that any continuous part of the 
