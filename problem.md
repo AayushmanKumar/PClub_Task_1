@@ -16,7 +16,7 @@ The score of a player is the sum of all the elements that they have taken from t
 Aadit convinces Aalekh that he would take the first chance unbeknownst to Aalekh that whoever starts the game can never lose !
 It is clear that Aadit wants to maximise the difference while Aalekh wants to minimise it.
 
-**NOTE: The elements of the array $A$ are integers and hence can be positive, zero and negative!
+**NOTE: The elements of the array $A$ are integers and hence can be positive, zero and negative!**
 
 After the end of a game they ask you to keep track of the **difference of scores with which Aadit wins**.
 Help them by printing out the difference of scores for each test case if both the players play **optimally**.
@@ -33,14 +33,14 @@ For each test case, output one integer — the maximum difference of score Aadit
 
 ## Example
 ### Input
-$2$
-$4$
-$4 -8 -16 10$
-$4$
-$1 2 3 4$
+$2$<br>
+$4$<br>
+$4 -8 -16 10$<br>
+$4$<br>
+$1 2 3 4$<br>
 ### Output
-$2$
-$10$
+$2$<br>
+$10$<br>
 
 
 
