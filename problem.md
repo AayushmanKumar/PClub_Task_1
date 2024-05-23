@@ -35,7 +35,7 @@ For each test case, output one integer — the maximum difference of score Aadit
 ### Input
 $2$ <br>
 $4$ <br>
-$4$ -$8$ -$16$ $10$ <br>
+$4$ $-8$ $-16$ $10$ <br>
 $4$ <br>
 $1$ $2$ $3$ $4$<br>
 ### Output
