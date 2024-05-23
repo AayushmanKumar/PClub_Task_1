@@ -16,5 +16,5 @@ Both of them play optimally and after the end of a game they ask you to keep tra
 It is clear that Aadit wants to maximise the difference while Aalekh wants to minimise it.
 
 ## Input
-bla bla bla
+The first line of the input contains$ t ( 1 <= t <= 100 ) -- the number of test cases.
 
