@@ -1,4 +1,4 @@
-<h1 align="center">Aadit diffs Aalekh</h1>
+<h1 align="center">Aadit Diffs Aalekh</h1>
 <p align="center">
 time limit per test: 2 seconds <br>
 memory limit per test: 256 megabytes <br>
@@ -6,10 +6,13 @@ input: standard input <br>
 output: standard output
 </p>
 
-Aadit and Aalekh were getting bored in the summer and they decided to play a game with arrays !
+Aadit and Aalekh were getting bored in the summer and they decided to play a game with arrays as their summer project !
 
-Each player would take turns and would take **atleast one or more** elements of an array $A$ from any one of its ends.
-The game ends when the array is empty and all the elements have been taken by Aadit and Aalekh.
+They are given an array $A$ consisting of $n$ integers. Each player would play alternatively and would keep **one or more** elements of the array $A$ from any one of its ends with them.
+
+**They cannot skip their turn and must select atleast one integer**
+
+The game ends when the array $A$ is empty and all the elements have been taken by Aadit and Aalekh.
 
 The score of a player is the sum of all the elements that they have taken from the array $A$.
 
@@ -24,9 +27,9 @@ Help them by printing out the difference of scores for each test case if both th
 ## Input
 The first line of the input contains $t (1 ≤ t ≤ 100)$ -- the number of test cases.
 
-The second line of each test case contains an integer $n (1 ≤ n ≤ 100)$ — the number of elements in the array $A$.
+The first line of each test case contains an integer $n (1 ≤ n ≤ 100)$ — the number of elements in the array $A$.
 
-The third line of each test case contains n integers of the array $A$.
+The second line of each test case contains n integers of the array $A$.
 
 ## Output
 For each test case, output one integer — the maximum difference of score Aadit can achieve !
