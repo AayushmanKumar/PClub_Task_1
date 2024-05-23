@@ -1,9 +1,9 @@
+<h1 align="center">Aadit diffs Aalekh</h1><br>
 <p align="center">
-<h1>Aadit diffs Aalekh</h1><br>
 time limit per test: 2 seconds <br>
 memory limit per test: 256 megabytes <br>
 input: standard input <br>
-output: standard output <br>
+output: standard output
 </p>
 
 
