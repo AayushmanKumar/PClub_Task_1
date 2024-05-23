@@ -29,7 +29,7 @@ The first line of the input contains $t (1 ≤ t ≤ 100)$ -- the number of test
 
 The first line of each test case contains an integer $n  (1 ≤ n ≤ 100)$ — the number of elements in the array $A$.
 
-The second line of each test case contains $n$ integers ( $$a_i$$ ) of the array $A$. ( $$ -100 ≤ a_i ≤ 100 $$ )
+The second line of each test case contains $n$ integers ( $a_i$ ) of the array $A$. ( $ -100 ≤ a_i ≤ 100 $ )
 
 ## Output
 For each test case, output one integer — the maximum difference of score Aadit can achieve !
